@@ -1,0 +1,19 @@
+1. Project Setup:
+Create a dedicated project directory to maintain a clean workspace.
+
+2. Virtual Environment Creation:
+Set up a virtual environment within the project directory to isolate dependencies.
+
+3. Directory Structure:
+Organize your project by placing the 'mysite' directory inside the main project directory.
+
+4. Dependency Installation:
+Install project dependencies listed in 'requirements.txt' using the command: pip install -r requirements.txt.
+
+5. Database Migration:
+Navigate to the 'mysite' directory in the console and run: python manage.py migrate to establish the database schema.
+
+6. Server Launch:
+Start the development server with the command: python manage.py runserver within the 'mysite' directory.
+
+

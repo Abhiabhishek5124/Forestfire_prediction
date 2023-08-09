@@ -8,11 +8,11 @@ This project involves the development of a forest fire prediction system utilizi
 
 ## Project Setup
 
-1. **Project Directory:** Create a dedicated directory to manage your project files.
+1. **Project Directory:** Create a dedicated directory to manage the files.
 
 2. **Virtual Environment:** Set up a virtual environment within the project directory to manage dependencies.
 
-3. **Directory Structure:** Organize your project by placing the 'mysite' directory inside the main project directory.
+3. **Directory Structure:** Organize it by placing the 'mysite' directory inside the main project directory.
 
 4. **Dependency Installation:** Install project dependencies using the command:  pip install -r requirements.txt
 
